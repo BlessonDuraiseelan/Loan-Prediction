@@ -7,9 +7,6 @@ The app is built with the help of flask and deployed in cloud using Heroku.
 
 
 
-
-![image](https://user-images.githubusercontent.com/76935226/148780865-301ef61c-cc37-4fd5-a5b8-1461485a81b2.png)
-
 ![Screenshot (172)](https://user-images.githubusercontent.com/76935226/148762440-674d6a0e-4c4e-4097-b42d-66f22d344f0c.png)
 ![Screenshot (173)](https://user-images.githubusercontent.com/76935226/148762456-194aa04a-f5cb-4bfb-8455-015f83d7be9e.png)
 ![Screenshot (174)](https://user-images.githubusercontent.com/76935226/148762472-17379c80-935c-4def-9eba-dfb2955cdab1.png)
