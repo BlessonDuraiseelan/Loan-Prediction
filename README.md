@@ -2,8 +2,20 @@
 This webapp is developed to check  the probability of loan applied by the user will be approved or not based on of the input parameters.
 The app is built with the help of flask and deployed in cloud using Heroku.
 
-# Dataset and Model Creation.
+# Dataset and Model Creation
 ![image](https://user-images.githubusercontent.com/76935226/148782436-a1872c35-eaca-40bf-a6ca-40c866dbcce1.png)
+The image shows us the details that the user needs to input which will be used to predict the loan status. After the dataset is loaded the data is checked for null and other details. Various pre preocessing techniques are applied on the data and visualisations are used to draw inference from the dataset. We replace the nul values with the mode and median of the data points wherever necessary. 
+
+After the data is ready for model building we use Randon Forest Algorithm and obtain the accuracy and metrics. In order to get optimised parameters for Random Forest we apply RandomizedSearchCV on Random Forest and obtain the best parameters for Random Forest. Then we will check the metrics and other cv score. We save  the model as a pickle file and then the file will be used to predict the loan status.
+
+# Deployment
+Then GUI was designed by the help of HTML/CSS and bulit upon Flask Framework. The app was deployed in web with the help of Heroku.
+![kisspng-flask-python-web-framework-bottle-microframework-django-5b3d0ba62504c0 3512153115307273341516](https://user-images.githubusercontent.com/76935226/148790863-6e0fb88c-4f6f-42ff-9d1f-61bd284ca2ab.jpg)
+![Heroku](https://user-images.githubusercontent.com/76935226/148790905-9cd9c323-7621-4f5a-b599-e08a422a450a.png)
+![python-logo (3)](https://user-images.githubusercontent.com/76935226/148790931-f1701e56-61f9-408a-be31-d8f085fb0001.jpg)
+
+You can check out the app:
+https://loanpredictorwebapp.herokuapp.com/
 
 
 
