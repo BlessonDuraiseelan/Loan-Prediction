@@ -15,7 +15,7 @@ Then GUI was designed by the help of HTML/CSS and bulit upon Flask Framework. Th
 ![kisspng-flask-python-web-framework-bottle-microframework-django-5b3d0ba62504c0 3512153115307273341516](https://user-images.githubusercontent.com/76935226/148791161-269cad5c-7045-4faa-9dd9-c6e74d266df0.jpg)
 ![140600193-88639597-52de-4dce-ba6a-06b80cbe94f2](https://user-images.githubusercontent.com/76935226/148791351-6a457ada-8172-48ab-a24e-b3aa86649920.png)
 
-![python-logo (3)](https://user-images.githubusercontent.com/76935226/148791243-327d9d9e-31fe-40eb-9a42-9cb004292a26.jpg)
+![image](https://user-images.githubusercontent.com/76935226/148791618-6ad1302b-0c82-49d3-b59c-753ef6a02157.png)
 
 
 You can check out the app:
