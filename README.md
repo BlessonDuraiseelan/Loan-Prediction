@@ -6,7 +6,7 @@ The app is built with the help of flask and deployed in cloud using Heroku.
 
 ![image](https://user-images.githubusercontent.com/76935226/148782436-a1872c35-eaca-40bf-a6ca-40c866dbcce1.png)
 
-The image shows us the details that the user needs to input which will be used to predict the loan status. After the dataset is loaded the data is checked for null and other details. Various pre preocessing techniques are applied on the data and visualisations are used to draw inference from the dataset. We replace the nul values with the mode and median of the data points wherever necessary. 
+The image shows us the details that the user needs to input which will be used to predict the loan status. After the dataset is loaded the data is checked for null and other details. Various pre preocessing techniques are applied on the data and visualisations are used to draw inference from the dataset. We replace the null values with the mode and median of the data points wherever necessary. 
 
 After the data is ready for model building we use Randon Forest Algorithm and obtain the accuracy and metrics. In order to get optimised parameters for Random Forest we apply RandomizedSearchCV on Random Forest and obtain the best parameters for Random Forest. Then we will check the metrics and other cv score. We save  the model as a pickle file and then the file will be used to predict the loan status.
 
