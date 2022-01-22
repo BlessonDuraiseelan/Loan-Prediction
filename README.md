@@ -15,9 +15,10 @@ After the data is ready for model building we use Randon Forest Algorithm and ob
 # Deployment
 Then GUI was designed by the help of HTML/CSS and bulit upon Flask Framework. The app was deployed in web with the help of Heroku.
 ![kisspng-flask-python-web-framework-bottle-microframework-django-5b3d0ba62504c0 3512153115307273341516](https://user-images.githubusercontent.com/76935226/148791161-269cad5c-7045-4faa-9dd9-c6e74d266df0.jpg)
+
 ![image](https://user-images.githubusercontent.com/76935226/140600298-11b355f2-f0f1-453a-a860-a984817597b5.png)
-![image](https://user-images.githubusercontent.com/76935226/150634420-34207f18-c7c7-4694-b08b-e5d02dc78d41.png)
-![image](https://user-images.githubusercontent.com/76935226/150634458-b9631ca7-e71d-4465-8a91-a22f094941e8.png)
+![image](https://user-images.githubusercontent.com/76935226/150634420-34207f18-c7c7-4694-b08b-e5d02dc78d41.png)![image](https://user-images.githubusercontent.com/76935226/150634489-64545e70-a048-48d4-806d-1f5510b39849.png)
+
 
 
 
