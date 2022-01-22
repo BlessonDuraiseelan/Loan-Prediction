@@ -3,7 +3,9 @@ This python webapp is developed to check the probability of loan applied by the 
 The app is built with the help of flask and deployed in cloud using Heroku.
 
 # Dataset and Model Creation
+
 The dataset contains the following columns:
+
 ![image](https://user-images.githubusercontent.com/76935226/148782436-a1872c35-eaca-40bf-a6ca-40c866dbcce1.png)
 
 The image shows us the details that the user needs to input which will be used to predict the loan status.
