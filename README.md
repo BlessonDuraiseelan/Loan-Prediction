@@ -10,7 +10,7 @@ The image shows us the details that the user needs to input which will be used t
 The user needs to input the details according to the columns as mentioned in the dataset. There are various columns related to loan prediction raniging from residential area to co applicant income.
 After the dataset is loaded the data is checked for null and other details. Various pre preocessing techniques are applied on the data and visualisations are used to draw inference from the dataset. We replace the null values with the mode and median of the data points wherever necessary. The categorical columns are encoded as we cannot use the data in original format for prediction.
 
-After the data is ready for model building we use Randon Forest Algorithm and obtain the accuracy and metrics. In order to get optimised parameters for Random Forest we apply RandomizedSearchCV on Random Forest and obtain the best parameters for Random Forest. Then we will check the metrics and other  scores. The model is accurate about 85%.We save  the model as a pickle file and then the file will be used to predict the loan status.
+After the data is ready for model building we will be  using  Randon Forest Algorithm and obtain the accuracy and metrics to check for the performance. In order to get optimised parameters for Random Forest we apply RandomizedSearchCV on Random Forest and obtain the best parameters for Random Forest. We will apply the algorithm with the parameters. Then we will check the metrics and other scores. The model is accurate about 85%.We save  the model as a pickle file and then the file will be used to predict the loan status in further processing of flask file.
 
 # Deployment
 Then GUI was designed by the help of HTML/CSS and bulit upon Flask Framework. The app was deployed in web with the help of Heroku.
@@ -21,7 +21,6 @@ Then GUI was designed by the help of HTML/CSS and bulit upon Flask Framework. Th
 ![image](https://user-images.githubusercontent.com/76935226/150634420-34207f18-c7c7-4694-b08b-e5d02dc78d41.png)
 
 ![Heroku](https://user-images.githubusercontent.com/76935226/150634597-97758c9f-cc00-47fa-8a2b-9692a81c6fc0.png)
-
 
 
 
