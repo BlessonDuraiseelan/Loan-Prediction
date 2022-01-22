@@ -1,5 +1,5 @@
 # Loan Prediction 
-This webapp is developed to check  the probability of loan applied by the user will be approved or not based on of the input parameters.
+This python webapp is developed to check the probability of loan applied by the user will be approved or not based on of the input parameters.
 The app is built with the help of flask and deployed in cloud using Heroku.
 
 # Dataset and Model Creation
